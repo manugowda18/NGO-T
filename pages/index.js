@@ -18,7 +18,7 @@ export default function Home() {
         <meta name="title" content="NGO-T BY Manu" />
         <meta
           name="description"
-          content="We reduce the wastage of food by using it for a good cause and provide a healthy meal to kids so that they can sleep with no hunger."
+          content="hunger."
         />
         <meta name="copyright" content="Manojgowda" />
 
